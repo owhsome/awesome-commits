@@ -4,3 +4,4 @@
 
 ### Commits list
 - [Responsive CSS table](https://github.com/coderetreat/coderetreat.github.io/pull/162/commits/e979bf52c16ee20305209c9b6b239806ede87b9a)
+- [Passing a function as an argument while requiring it at the same time](https://github.com/kewah/npm-module-generator/blob/master/index.js#L3)
